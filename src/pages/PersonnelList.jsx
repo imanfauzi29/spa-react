@@ -57,7 +57,7 @@ function PersonnelList() {
                                 <input type="text" className="border-2 border-gray-300 focus:outline-none pl-10 w-full py-3 pr-3" placeholder="find personnels" style={{lineHeight: "1.3"}} />
                             </div>
                             <div>
-                                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-4 flex items-center uppercase w-full lg:w-auto"><PlusIcon className="h-5 w-5" /> Add Personel</button>
+                                <button className="bg-indigo-600 hover:bg-indigo-800 text-white font-bold py-3 px-4 flex items-center uppercase w-full lg:w-auto"><PlusIcon className="h-5 w-5" /> Add Personel</button>
                             </div>
                         </div>
                     </div>
