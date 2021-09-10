@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spa-react/static/css/main.51450043.chunk.css",
-    "main.js": "/spa-react/static/js/main.052f1cd6.chunk.js",
-    "main.js.map": "/spa-react/static/js/main.052f1cd6.chunk.js.map",
-    "runtime-main.js": "/spa-react/static/js/runtime-main.4fd05527.js",
-    "runtime-main.js.map": "/spa-react/static/js/runtime-main.4fd05527.js.map",
+    "main.js": "/spa-react/static/js/main.cbd29455.chunk.js",
+    "main.js.map": "/spa-react/static/js/main.cbd29455.chunk.js.map",
+    "runtime-main.js": "/spa-react/static/js/runtime-main.02ae8628.js",
+    "runtime-main.js.map": "/spa-react/static/js/runtime-main.02ae8628.js.map",
     "static/js/2.0df73091.chunk.js": "/spa-react/static/js/2.0df73091.chunk.js",
     "static/js/2.0df73091.chunk.js.map": "/spa-react/static/js/2.0df73091.chunk.js.map",
-    "static/js/3.33c53830.chunk.js": "/spa-react/static/js/3.33c53830.chunk.js",
-    "static/js/3.33c53830.chunk.js.map": "/spa-react/static/js/3.33c53830.chunk.js.map",
+    "static/js/3.a7a1380b.chunk.js": "/spa-react/static/js/3.a7a1380b.chunk.js",
+    "static/js/3.a7a1380b.chunk.js.map": "/spa-react/static/js/3.a7a1380b.chunk.js.map",
     "static/js/4.06641ad9.chunk.js": "/spa-react/static/js/4.06641ad9.chunk.js",
     "static/js/4.06641ad9.chunk.js.map": "/spa-react/static/js/4.06641ad9.chunk.js.map",
     "static/js/5.f64e6d9c.chunk.js": "/spa-react/static/js/5.f64e6d9c.chunk.js",
@@ -18,9 +18,9 @@
     "static/js/2.0df73091.chunk.js.LICENSE.txt": "/spa-react/static/js/2.0df73091.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fd05527.js",
+    "static/js/runtime-main.02ae8628.js",
     "static/js/2.0df73091.chunk.js",
     "static/css/main.51450043.chunk.css",
-    "static/js/main.052f1cd6.chunk.js"
+    "static/js/main.cbd29455.chunk.js"
   ]
 }
